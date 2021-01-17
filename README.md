@@ -8,9 +8,6 @@ Developed with ReactJS, Node.js, SocketIO.
 
 ![Website](https://i.imgur.com/HhZD01o.jpg)
 
-### Website
-Try Video Meeting here [video.sebastienbiollo.com](https://video.sebastienbiollo.com)
-
 
 ### Features
 - Is 100% free and open-source
